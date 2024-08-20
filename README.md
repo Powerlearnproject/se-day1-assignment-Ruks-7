@@ -6,32 +6,65 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
+It is the systematic application of engineering principles and practices to design, develop, test and maintain software systems.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
+Agile development - agile methodologies assisted to address the limitations of traditional waterfall models by promoting adaptability.
+Object-Oriented programming - it provides a more modular and reusaable approach thus the softaware systems become more scalable and maintainable.
+The Software Crisis - it led to the emergence of structured programming and software engineering as a formal discipline.
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
+Planning - it is initial phase that involves defining the project scope, odjectives and requirements
+Analysis  - the requirements are analyzed in order to understand the system's functionalities and specifications
+Design - the system's architecture and design are developed based on the requirements analysis
+Development - coding and the implementation of the software takes place
+Testing - the software is tested to identify and fix bugs
+Development - the finished software is deployed into production environment for use by end-users
+Maintenance - the software is monitored, updated and supported after deployment
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
+Waterfall methodology follows a linear approach. It entails moving from one phase to another in a waterfall manner while agile methodolgy involves breaking down the project into smaller sprints.
+Waterfall is suitable for projects with well-defined requirements and minimal uncertainity while agile is suitable for projects with evolving requirements.
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
+Software Developer - he/she develops software components based on design specifications
+Quality Assurance Engineer - designs and executes test cases to identify bugs in the software
+Project Manager - he/she defines the project scope, goals and timelines 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
+IDEs are used to edit code, debug, build automation while VCS are used to track changes, foster collaboration and revert changes. 
+Examples of:  IDEs include VS Code and Eclipse. VCEs include Git and Subversion.
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
+Evolving requirements - projects often face changing requirements throughout their development cycle
+Team collaboration - ensuring effective communication among team members
+Tight deadlines - Meeting strict deadlines while maintaining quality can become a challenge
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
+Unit testing - it is done in order to verify the correctness of individual software components
+Integration testing - it verifies the interactions between different software components 
+System testing - it evaluates the entire system against its specified requirements
+Acceptance - it verifies that the software meets the customer's requirements and is ready for deployment
 
 #Part 2: Introduction to AI and Prompt Engineering
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 
+Prompt engineering is the art of crafting effective prompts to guide AI models like large language models towards generating desired and informative responses.
+Well-crafted prompts provide clear instructions, reducing ambiguity and ensuring the AI model understands the desired task.
 
-Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective. 
+
+An example of a vague prompt: "Tell me about the French Revolution."
+The prompt is vague because it lacks specificity and leaves room for interpretation. It doesn't indicate what aspect of the French Revolution one is interested in.
+Improved prompt: "Explain the causes and key figures of the French Revolution."
+It clearly states that the one wants information about the causes and key figures, providing a specific direction for the response.
